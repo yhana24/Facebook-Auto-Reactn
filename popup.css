@@ -26,14 +26,14 @@ left: 18%;
 }
 button:hover{
 
-background-color: white;
+background-color: pink;
 
 }
 p{
 height: 2px;
 position: absolute;
 font-size: xx-small;
-color: white;
+color: pink;
 bottom: 0;
 right: 0;
 
